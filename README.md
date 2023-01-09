@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![Activity 5 2 sakthivel R github](https://user-images.githubusercontent.com/120550359/211272671-c1c94edd-e3dd-4d70-b6b9-c902a841543c.jpg)
+
 
 
 ## RESULT:
